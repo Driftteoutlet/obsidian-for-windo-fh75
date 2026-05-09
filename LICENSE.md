@@ -1,4 +1,4 @@
-
+advanced Obsidian for Windows Extension | collaboration + database-creation offers the most advanced Obsidian for Windows extension, with collaboration and database-creation.
 
 
 
